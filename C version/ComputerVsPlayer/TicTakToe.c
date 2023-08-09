@@ -4,8 +4,7 @@
 | Author        : Mushtaq Shahzad
 | Version       : 1.0-Beta
 | Description   : TicTocToe Game - Player VS Computer
-| Copyright     : Protected by Copyright 2019-2023.
-|               : This code or parts of it can be used in your projects but it must provide credits to the author!
+| Copyright     : No Copyright. You are allowed to re-use the code or parts of it!
 | ======================================================================================================================================
 */
 #include <stdio.h>
