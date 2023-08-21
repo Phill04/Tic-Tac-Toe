@@ -1,7 +1,7 @@
 /*
 | ======================================================================================================================================
 | Name          : TicTakToe (Computer vs Player)
-| Author        : Mushtaq Shahzad
+| Author        : // itsphill_
 | Version       : 1.0-Beta
 | Description   : TicTocToe Game - Player VS Computer
 | Copyright     : No Copyright. You are allowed to re-use the code or parts of it!
